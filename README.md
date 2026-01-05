@@ -67,7 +67,6 @@ Mercur tích hợp trọn vẹn các tính năng cao cấp trong một mã ngu�
 <div align="center">
 
 **Experience the Mercur B2C Storefront**
-*(Click vào hình để xem Demo)*
 
 <a href="https://youtu.be/SvajSK_qk20?si=wFcL2z0X8tiJBru9" target="_blank">
   <img src="https://img.youtube.com/vi/SvajSK_qk20/maxresdefault.jpg" alt="Mercur Storefront Demo" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
