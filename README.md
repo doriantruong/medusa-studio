@@ -62,20 +62,6 @@ Mercur tích hợp trọn vẹn các tính năng cao cấp trong một mã ngu�
 
 ---
 
-## Visual Showcase
-
-<div align="center">
-
-**Experience the Mercur B2C Storefront**
-
-<a href="https://youtu.be/SvajSK_qk20?si=wFcL2z0X8tiJBru9" target="_blank">
-  <img src="https://img.youtube.com/vi/SvajSK_qk20/maxresdefault.jpg" alt="Mercur Storefront Demo" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
-</a>
-
-</div>
-
----
-
 ## Services & Support
 
 Chúng tôi cung cấp giải pháp toàn diện để đảm bảo hệ thống Mercur vận hành trơn tru:
@@ -138,6 +124,109 @@ Quy trình hợp tác và triển khai nền tảng Mercur chuẩn hóa:
 * **Q3/2026:** Tích hợp **AI Stylist** (Gợi ý phối đồ thông minh) trực tiếp vào lõi Mercur.
 * **Q4/2026:** Ra mắt giải pháp **Mobile App Builder** (Tạo App bán hàng tự động) đồng bộ với Web.
 * **2027:** Mở rộng module **Global Commerce** (Đa tiền tệ, Đa ngôn ngữ, Thuế tự động) cho thị trường quốc tế.
+
+---
+
+## Visual Showcase
+
+<div align="center">
+
+### Experience the Mercur B2C Storefront
+
+<!-- FEATURED DEMO (LỚN) -->
+<a href="https://youtu.be/SvajSK_qk20" target="_blank">
+  <img
+    src="https://img.youtube.com/vi/SvajSK_qk20/maxresdefault.jpg"
+    width="100%"
+    style="border-radius:12px; box-shadow:0 8px 20px rgba(0,0,0,0.2);"
+  />
+</a>
+
+<br/><br/><br/>
+
+<!-- OTHER DEMOS (NHỎ) -->
+<table width="100%" cellspacing="16">
+  <tr>
+    <td width="50%">
+      <a href="https://www.youtube.com/watch?v=Am2RHJ-IjIQ" target="_blank">
+        <img src="https://img.youtube.com/vi/Am2RHJ-IjIQ/maxresdefault.jpg" width="100%" style="border-radius:8px;" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://www.youtube.com/watch?v=PEWtu4WUAFk" target="_blank">
+        <img src="https://img.youtube.com/vi/PEWtu4WUAFk/maxresdefault.jpg" width="100%" style="border-radius:8px;" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=n32ljoPUHT8" target="_blank">
+        <img src="https://img.youtube.com/vi/n32ljoPUHT8/maxresdefault.jpg" width="100%" style="border-radius:8px;" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=4iWgAORzCHk" target="_blank">
+        <img src="https://img.youtube.com/vi/4iWgAORzCHk/maxresdefault.jpg" width="100%" style="border-radius:8px;" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=eb_qK9gULuw" target="_blank">
+        <img src="https://img.youtube.com/vi/eb_qK9gULuw/maxresdefault.jpg" width="100%" style="border-radius:8px;" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=xVJawPOd-Bs" target="_blank">
+        <img src="https://img.youtube.com/vi/xVJawPOd-Bs/maxresdefault.jpg" width="100%" style="border-radius:8px;" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=5r8inEmAPOs" target="_blank">
+        <img src="https://img.youtube.com/vi/5r8inEmAPOs/maxresdefault.jpg" width="100%" style="border-radius:8px;" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=ianOv3v5V9c" target="_blank">
+        <img src="https://img.youtube.com/vi/ianOv3v5V9c/maxresdefault.jpg" width="100%" style="border-radius:8px;" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=2Vx8MdXVNFw" target="_blank">
+        <img src="https://img.youtube.com/vi/2Vx8MdXVNFw/maxresdefault.jpg" width="100%" style="border-radius:8px;" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=sHo_Vc-3dyE" target="_blank">
+        <img src="https://img.youtube.com/vi/sHo_Vc-3dyE/maxresdefault.jpg" width="100%" style="border-radius:8px;" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=J-YH7FFnhHY" target="_blank">
+        <img src="https://img.youtube.com/vi/J-YH7FFnhHY/maxresdefault.jpg" width="100%" style="border-radius:8px;" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=z4rsxlZvAII" target="_blank">
+        <img src="https://img.youtube.com/vi/z4rsxlZvAII/maxresdefault.jpg" width="100%" style="border-radius:8px;" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 
 ---
 
