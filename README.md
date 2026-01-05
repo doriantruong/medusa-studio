@@ -16,7 +16,7 @@
   <img alt="Architecture" src="https://img.shields.io/badge/Architecture-Headless-8A2BE2.svg?style=flat-square&logo=serverless&logoColor=white" />
 </a>
 <a href="mailto:thedoriantruong@gmail.com">
-  <img alt="Director" src="https://img.shields.io/badge/Director-Dorian%20Truong-181717.svg?style=flat-square&logo=github&logoColor=white" />
+  <img alt="Director" src="https://img.shields.io/badge/Director-Dorian%20Truong-FF5722.svg?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 <br/>
