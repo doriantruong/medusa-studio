@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# M E D U S A &nbsp; S T U D I O
+# MEDUSA&nbsp;STUDIO
 ### The Digital Atelier for Commerce
 
 > **"Every creation, a narrative."**
